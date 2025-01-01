@@ -1,6 +1,6 @@
 ---
-title: Sample Post
-categories: [writing]
+title: Interests
+categories: [AboutMe]
 comments: true
 ---
 
