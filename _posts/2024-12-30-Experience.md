@@ -5,6 +5,16 @@ comments: true
 ---
 
 # Education
+<table style="width: 100%; border: none;">
+  <tr>
+    <td style="width: 80%; color: #48c774; font-size: 14px; vertical-align: top;">
+      University of Nottingham - UK\n
+    </td>
+    <td style="width: 20%; text-align: right; color: black; font-size: 14px;">
+      09/2020 – 01/2022
+    </td>
+  </tr>
+</table>
 
 ## University of Nottingham - UK  
 **Master of Science in Data Science**  
