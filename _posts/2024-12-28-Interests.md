@@ -4,7 +4,7 @@ categories: [AboutMe]
 comments: true
 ---
 
-### Pet Care
+### Animals
 
 I really like animals, not just pets. I enjoy watching ants move their homes and caterpillars crawling on leaves in the spring. Even though I’m very allergic to cat and dog fur, my family back home has two cats and a dog.
 
@@ -19,7 +19,7 @@ I really like animals, not just pets. I enjoy watching ants move their homes and
   </div>
 </div>
 
-### travel
+### Travel
 
 I love traveling and experiencing the cultures of different countries. Although I haven't visited many places yet :), I hope to explore more of the world in the future.
 ![Travel Memories](/assets/img/travel.png)
