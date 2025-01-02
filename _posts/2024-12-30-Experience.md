@@ -20,7 +20,7 @@ comments: true
   <tr>
     <td style="width: 65%; vertical-align: top;">
       <span style="color: #48c774; font-size: 14px;">Anhui University of Finance and Economics</span><br>
-      <span style="color: #888888; font-size: 14px;">Management in Information Management and Information Systems</span>
+      <span style="color: #888888; font-size: 14px;">Information Management and Information Systems</span>
     </td>
     <td style="width: 35%; text-align: right; color: black; font-size: 14px;">
       09/2015 – 09/2019
