@@ -4,8 +4,6 @@ categories: [AboutMe]
 comments: true
 ---
 
-# Publications
-
 ## [**Electronic Medical Record Recommendation System Based on Deep Embedding Learning with Named Entity Recognition**](https://link.springer.com/chapter/10.1007/978-3-031-44195-0_25)  
 <span style="color: #888888;">(first author) Accepted at Internet Corporation for Assigned Names and Numbers 2023 (CCF-C).</span>  
 
