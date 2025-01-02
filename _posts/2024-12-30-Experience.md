@@ -8,7 +8,7 @@ comments: true
 <table style="width: 100%; border: none;">
   <tr>
     <td style="width: 80%; color: #48c774; font-size: 14px; vertical-align: top;">
-      University of Nottingham - UK
+      University of Nottingham - UK<br>
       Master of Science in Data Science
     </td>
     <td style="width: 20%; text-align: right; color: black; font-size: 14px;">
