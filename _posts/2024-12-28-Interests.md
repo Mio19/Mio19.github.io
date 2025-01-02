@@ -19,7 +19,10 @@ I really like animals, not just pets. I enjoy watching ants move their homes and
   </div>
 </div>
 
-
-
-
 ### travel
+
+I love traveling and experiencing the cultures of different countries. Although I haven't visited many places yet :), I hope to explore more of the world in the future.
+![Travel Memories](/assets/img/travel.png)
+
+### Games
+I'm a big fan of MMO games, and my favorite is JX3. I once achieved a top-five ranking in my server's PVE mode as a healer class. I also enjoy card games, such as Hearthstone (but only PVE). Recently, I've been playing a card game called Inscryption. In addition, I'm a fan of simulation games like Stardew Valley.
