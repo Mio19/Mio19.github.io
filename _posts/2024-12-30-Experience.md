@@ -8,26 +8,42 @@ comments: true
 <table style="width: 100%; border: none;">
   <tr>
     <td style="width: 80%; color: #48c774; font-size: 14px; vertical-align: top;">
-      University of Nottingham - UK<br>
-      Master of Science in Data Science
+      University of Nottingham<br>
+      Science in Data Science
     </td>
     <td style="width: 20%; text-align: right; color: black; font-size: 14px;">
       09/2020 – 01/2022
     </td>
   </tr>
+  <tr>
+    <td style="width: 80%; color: #48c774; font-size: 14px; vertical-align: top;">
+      Anhui University of Finance and Economics<br>
+      Management in Information Management and Information Systems
+    </td>
+    <td style="width: 20%; text-align: right; color: black; font-size: 14px;">
+      09/2015 – 09/2019
+    </td>
+  </tr>
 </table>
 
-## University of Nottingham - UK  
-**Master of Science in Data Science**  
-*09/2020 – 01/2022*  
-- **GPA**: 4.5/5.0 (Distinction)  
-- **Core Modules**: Machine Learning, Time Series and Forecasting, Applied Multivariate Statistics  
-
----
-
-## Anhui University of Finance and Economics (AUFE) - CHINA  
-**Bachelor of Management in Information Management and Information Systems**  
-*09/2015 – 09/2019*  
-- **GPA**: 4.39/5.0  
-- **Core Modules**: Computer Programming, Data Structure, Web Application and Development,  
-  Professional Survey and Practice, Application of Database, Information Systems Development Tools
+# Work Experience
+<table style="width: 100%; border: none;">
+  <tr>
+    <td style="width: 80%; color: #48c774; font-size: 14px; vertical-align: top;">
+      Basecare Medical Device Co., Ltd.<br>
+      AI Engineer, Algorithm Dept.
+    </td>
+    <td style="width: 20%; text-align: right; color: black; font-size: 14px;">
+      10/2021 – 12/2023
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 80%; color: #48c774; font-size: 14px; vertical-align: top;">
+      Nanjing Yunhuatong Network Technology Co., Ltd.<br>
+      Web Crawler Engineer, Technology Dept.
+    </td>
+    <td style="width: 20%; text-align: right; color: black; font-size: 14px;">
+      07/2019 – 06/2020
+    </td>
+  </tr>
+</table>
