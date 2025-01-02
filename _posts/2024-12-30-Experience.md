@@ -6,7 +6,16 @@ comments: true
 
 # Education
 <table style="width: 100%; border: none;">
-  <!-- 第一行：University of Nottingham -->
+  <tr>
+    <td style="width: 65%; vertical-align: top;">
+      <span style="color: #48c774; font-size: 14px;">Sungkyunkwan University</span><br>
+      <span style="color: #888888; font-size: 14px;">Applied Artificial Intelligence</span>
+    </td>
+    <td style="width: 35%; text-align: right; color: black; font-size: 14px;">
+      01/2025 – NOW
+    </td>
+  </tr>
+
   <tr>
     <td style="width: 65%; vertical-align: top;">
       <span style="color: #48c774; font-size: 14px;">University of Nottingham</span><br>
@@ -16,7 +25,7 @@ comments: true
       09/2020 – 01/2022
     </td>
   </tr>
-  <!-- 第二行：Anhui University of Finance and Economics -->
+
   <tr>
     <td style="width: 65%; vertical-align: top;">
       <span style="color: #48c774; font-size: 14px;">Anhui University of Finance and Economics</span><br>
@@ -31,7 +40,7 @@ comments: true
 
 # Work Experience
 <table style="width: 100%; border: none;">
-  <!-- 第一行：Basecare Medical Device Co., Ltd. -->
+
   <tr>
     <td style="width: 65%; vertical-align: top;">
       <span style="color: #48c774; font-size: 14px;">Basecare Medical Device Co., Ltd.</span><br>
@@ -41,7 +50,7 @@ comments: true
       10/2021 – 12/2023
     </td>
   </tr>
-  <!-- 第二行：Nanjing Yunhuatong Network Technology Co., Ltd. -->
+
   <tr>
     <td style="width: 65%; vertical-align: top;">
       <span style="color: #48c774; font-size: 14px;">Nanjing Yunhuatong Network Technology Co., Ltd.</span><br>
