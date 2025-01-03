@@ -19,7 +19,7 @@ comments: true
   <tr>
     <td style="width: 65%; vertical-align: top;">
       <span style="color: #48c774; font-size: 14px;">University of Nottingham</span><br>
-      <span style="color: #888888; font-size: 14px;">Science in Data Science</span>
+      <span style="color: #888888; font-size: 14px;">Data Science</span>
     </td>
     <td style="width: 35%; text-align: right; color: black; font-size: 14px;">
       09/2020 – 01/2022
