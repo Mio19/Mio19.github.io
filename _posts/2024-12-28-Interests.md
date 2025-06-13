@@ -6,7 +6,7 @@ comments: true
 
 ### Animals
 
-I really like animals, not just pets. I enjoy watching ants move their homes and caterpillars crawling on leaves in the spring. Even though I’m very allergic to cat and dog fur, my family back home has two cats and a dog.
+I really like animals, not just pets. I enjoy watching ants move their homes and caterpillars crawling on leaves in the spring. Even though I’m very allergic to cat and dog fur, my family back home has two cats and a dog (RIP dog).
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 10px;">
   <div style="text-align: center;">
