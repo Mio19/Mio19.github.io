@@ -12,3 +12,7 @@ comments: true
 ## [**Deep Learning-Based Morphological Analysis of Non-staining Living Sperm**](https://www.csbj.org/article/S2001-0370(24)00049-7/fulltext)  
 <span style="color: #888888;">(co-author) Accepted at Computational and Structural Biotechnology Journal (JCR:Q1).</span>
    
+---
+
+## [**HLA alleles, blocks, and haplotypes associated with the hematological diseases of AML, ALL, MDS, and AA in the Han population of Southeastern China**](https://journals.lww.com/cmj/fulltext/2025/04050/hla_alleles,_blocks,_and_haplotypes_associated.14.aspx)  
+<span style="color: #888888;">(co-author) Accepted at Chinese Medical Journal.</span>
